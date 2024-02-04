@@ -1,2 +1,2 @@
-# ChlaotSolution-public
-Public release &amp; Issues repository for ChlaotSolution
+# ChlaotSolution (public)
+Public release & Issues repository for ChlaotSolution
